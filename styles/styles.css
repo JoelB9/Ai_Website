@@ -1,0 +1,77 @@
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-links li a:hover {
+    color: #0077ff; 
+}
+
+#home_hero img {
+    width: 100%;
+    height: auto;
+
+}
+
+.container {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.introduction-to-ai h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+
+.col-12 img{
+    width: 80%;
+    height: auto;
+}
+
+.col-md-6 img{
+    width: 80%;
+    height: auto;
+}
+
+.modal-body{
+    background-color: #0077ff;
+    color: #fff;
+}
+
+
+
+.modal-footer btn btn-primary{
+    background-color: goldenrod;
+}
+
+
+
